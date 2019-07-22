@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Raleway', Calibri, Arial, sans-serif;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.pull-right {
+    float: right;
+}
+#__nuxt, #__layout {
+    height: 100%;
+}
+.full-height {
+    height: 100%;
+}
+.flex {
+    display: flex;
+    
+    .flex-1 {
+        flex: 1;
+    }
+}
